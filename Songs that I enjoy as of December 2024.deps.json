@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Songs that I enjoy as of December 2024/1.0.0": {
+        "runtime": {
+          "Songs that I enjoy as of December 2024.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Songs that I enjoy as of December 2024/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
